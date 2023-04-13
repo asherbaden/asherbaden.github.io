@@ -1,0 +1,11 @@
+h1,h2,h3,p,nav,footer {
+    font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 11pt;
+}
+
+footer {
+    font-size: 9pt;
+}
